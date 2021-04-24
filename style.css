@@ -1,0 +1,700 @@
+*{margin:0px; padding:0px; font-family:Helvetica, Arial, sans-serif;}
+
+
+
+/* Center the image and position the close button */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+.imgcontainer3 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+.imgcontainer4 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+.imgcontainer5 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer6 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer7 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer8 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer9 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer10 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer11 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer12 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer13 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer14 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer15 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer16 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer17 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer18 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer19 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer20 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer21 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer22 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer23 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer24 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer25 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+.imgcontainer26 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+
+
+
+.avatar {
+    width: 200px;
+  height:200px;
+    border-radius: 50%;
+}
+
+/* The Modal (background) */
+.modal {
+  display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal3 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal4 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal5 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal6 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal7 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal8 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal9 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal10 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal11 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal12 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal13 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal14 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal15 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal16 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal17 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal18 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal19 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal20 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal21 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal22 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal23 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal24 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal25 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal26 {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+/* Modal Content Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+  padding-bottom: 30px;
+}
+
+.modal-content3 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+
+.modal-content4 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+
+.modal-content5 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+
+.modal-content6 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content7 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content8 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content9 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content10 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content11 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content12 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content13 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content14 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content15 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content16 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content17 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content18 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content19 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content20 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content21 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content22 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content23 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content24 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content25 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+.modal-content26 {
+    background-color: #fefefe;
+    margin: 4% auto 15% auto;
+    border: 1px solid #888;
+    width: 50%; 
+    padding-bottom: 30px;
+}
+/* The Close Button (x) */
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+.close:hover,.close:focus {
+    color: red;
+    cursor: pointer;
+    float:right;
+}
+
+/* Add Zoom Animation */
+.animate {
+    animation: zoom 0.6s
+}
+
+.animate3 {
+    animation: zoom 0.6s
+}
+
+.animate4 {
+    animation: zoom 0.6s
+}
+
+.animate5 {
+    animation: zoom 0.6s
+}
+.animate6 {
+    animation: zoom 0.6s
+}
+.animate7 {
+    animation: zoom 0.6s
+}
+.animate8 {
+    animation: zoom 0.6s
+}
+.animate9 {
+    animation: zoom 0.6s
+}
+.animate10 {
+    animation: zoom 0.6s
+}
+.animate11 {
+    animation: zoom 0.6s
+}
+.animate12 {
+    animation: zoom 0.6s
+}
+.animate13 {
+    animation: zoom 0.6s
+}
+.animate14 {
+    animation: zoom 0.6s
+}
+.animate15 {
+    animation: zoom 0.6s
+}
+.animate16 {
+    animation: zoom 0.6s
+}
+.animate17 {
+    animation: zoom 0.6s
+}
+.animate18 {
+    animation: zoom 0.6s
+}
+.animate19 {
+    animation: zoom 0.6s
+}
+.animate20 {
+    animation: zoom 0.6s
+}
+.animate21 {
+    animation: zoom 0.6s
+}
+.animate22 {
+    animation: zoom 0.6s
+}
+.animate23 {
+    animation: zoom 0.6s
+}
+.animate24 {
+    animation: zoom 0.6s
+}
+.animate25 {
+    animation: zoom 0.6s
+}
+.animate26 {
+    animation: zoom 0.6s
+}
+@keyframes zoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
